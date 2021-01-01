@@ -48,6 +48,8 @@ in the *db_mini* folder.
 * train - rendered train patch images, i.e. rgb, correspondences (uv or uvw), normals, 
 and sample backgrounds from [MS COCO](https://cocodataset.org/)
 
+Pretrained networks for LineMOD dataset trained on synthetic renderings can be found under the following [link](https://drive.google.com/drive/folders/1oMWzwBb-OP_caSrHNWyeoS-rDhN2Xf8o?usp=sharing).
+
 ## References
 
 #### DPOD: 6D Pose Object Detector and Refiner (ICCV 2019)
